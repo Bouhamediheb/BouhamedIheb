@@ -7,7 +7,7 @@ I'm BOUHAMED Iheb , a Junior developer and designer . I Spend most of time worki
 
 
 
-- 🔭 I’m currently working on building a chat app with Flutter.
+- 🔭 I’m currently working on building a Quizz app with Flutter and a project for my End Of Studies.
 - 🤔 I’m looking for help with machine learning and data science.
 - 📫 How to reach me: ihebbouhamediit@gmail.com.
 - 😄 Pronouns: He/his.
