@@ -5,7 +5,7 @@ Computer science student & Freelancer developer
 I've been exploring and learning programming for almost 6 years now. I had many experiences working with different people as a freelancer in web , design and now focusing on mobile development.  
 * 🌍  I'm based in Sfax, TUNISIA 
 * 🖥️  See my portfolio at [my personal website](https://bouhamediheb.github.io/PersonalWebsite/)
-* ✉️  You can contact me at [ihebbouhamed@iit.ens.tn](mailto:ihebbouhamed@iit.ens.tn) 
+* ✉️  You can contact me at [bouhamediheb@iit.ens.tn](mailto:bouhamediheb@iit.ens.tn) 
 * 🧠  I'm learning Cyber Security 
 * 🤝  I'm open to collaborating on Mobile apps . 
 * ⚡  I make jokes when I'm uncomfortable.
@@ -16,14 +16,14 @@ I've been exploring and learning programming for almost 6 years now. I had many 
 
 ### Socials
  
-  <p align="left"> <a href="https://www.behance.com/bouhamediheb" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a> <a href="https://www.github.com/ihebbouhamed" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/ihebbouhamed" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/iheb-bouhamed-767541219/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ihebbouhamed4" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+  <p align="left"> <a href="https://www.behance.com/bouhamediheb" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a> <a href="https://www.github.com/bouhamediheb" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/bouhamediheb" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/iheb-bouhamed-767541219/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/bouhamediheb4" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/ihebbouhamed"><img src="https://github-readme-stats.vercel.app/api?username=ihebbouhamed&show_icons=true&hide=stars,prs,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ihebbouhamed's GitHub stats" /></a>
-<a href="http://www.github.com/ihebbouhamed"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ihebbouhamed&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-<a href="http://www.github.com/ihebbouhamed"><img src="https://activity-graph.herokuapp.com/graph?username=ihebbouhamed&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-<a href="https://github.com/ihebbouhamed" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihebbouhamed&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/bouhamediheb"><img src="https://github-readme-stats.vercel.app/api?username=bouhamediheb&show_icons=true&hide=stars,prs,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="bouhamediheb's GitHub stats" /></a>
+<a href="http://www.github.com/bouhamediheb"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bouhamediheb&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/bouhamediheb"><img src="https://activity-graph.herokuapp.com/graph?username=bouhamediheb&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="https://github.com/bouhamediheb" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bouhamediheb&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
