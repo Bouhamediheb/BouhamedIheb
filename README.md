@@ -4,7 +4,6 @@ Computer science student & Freelancer developer
 -----------------------------------------------  
 I've been exploring and learning programming for almost 6 years now. I had many experiences working with different people as a freelancer in web , design and now focusing on mobile development.  
 * 🌍  I'm based in Sfax, TUNISIA 
-* 🖥️  See my portfolio at [my personal website](https://bouhamediheb.github.io/IhebPersonalWebsite/)
 * ✉️  You can contact me at [bouhamediheb@iit.ens.tn](mailto:bouhamediheb@iit.ens.tn) 
 * 🧠  I'm learning Cyber Security 
 * 🤝  I'm open to collaborating on Mobile apps . 
