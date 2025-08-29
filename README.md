@@ -1,12 +1,12 @@
 Hi 👋 My name is Bouhamed Iheb 
 ==============================  
-Computer science student & Freelancer developer 
+Junior Software Engineer
 -----------------------------------------------  
-I've been exploring and learning programming for almost 6 years now. I had many experiences working with different people as a freelancer in web , design and now focusing on mobile development.  
+
 * 🌍  I'm based in Sfax, TUNISIA 
-* ✉️  You can contact me at [ihebbouhamediit@gmail.com](mailto:ihebbouhamediit@gmail.com) 
+* ✉️  You can contact me at [ihebbouhamed@oulook.com](mailto:ihebbouhamed@oulook.com) 
 * 🧠  I'm learning Cyber Security 
-* 🤝  I'm open to collaborating on Mobile apps . 
+* 🤝  I'm open to collaborating on Mobile apps. 
 * ⚡  I make jokes when I'm uncomfortable.
 
 ### Skills
